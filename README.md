@@ -5,7 +5,7 @@ This repository demonstrates the use of multiple AI agent tools and LLM access m
 ---
 
 ## 📁 Project Structure
-
+```bash
 Multi_agent_Example/
 ├── 00_swarm/
 │ └── main.py # Basic multi-agent simulation
@@ -19,7 +19,7 @@ Multi_agent_Example/
 ├── .env # Environment variables
 ├── requirements.txt # Python dependencies
 └── README.md # Project guide and documentation
-
+```
 ---
 
 
@@ -58,6 +58,7 @@ chainlit
 ## 👨‍🎓 Author
 **Student:** [Faryal Junaid](https://www.linkedin.com/in/faryal-junaid-06780b2b4/ "LinkedIn - Faryal Junaid")  
 **Instructor:** Sir Asharib Ali
+
 **Course:** Multi-Agent Systems – Quarter 4
 
 
