@@ -1,0 +1,14 @@
+[
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistance",
+    "content": "Hi there! How can I help you today?\n"
+  },
+  {
+    "role": "user",
+    "content": "what is agentic ai in simple way?"
+  }
+]
